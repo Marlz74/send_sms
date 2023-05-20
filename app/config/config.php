@@ -11,5 +11,5 @@
     define('DB_USER','root');
     define('DB_PASS','');
     define('DB_NAME','lmvc');
-    define('SMS_SENDER',' ENTER SENDER NAME ');
+    define('SMS_SENDER',' ENTER SENDER NAME     ');
     putenv('API_TOKEN=   ENTER API TOKEN OR KEY');
